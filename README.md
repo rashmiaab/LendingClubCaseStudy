@@ -17,7 +17,7 @@
 ## General Information
 - **Background** : Lending Club Case Study is about a **consumer finance company** which has specialization of providing loan for the urban customers. Given Customer details who have taken loan in past.
 - **Business Problem** : Based on dataset related to customers analysis has to be made to aiding the finance comapny decision to provide loan with minimal risk.
-- **Data Set Used** : Details of urban customers who have taken loan in the past which comprises of their loan amount, interest rate of loan, lon / short loan, anual income, type of home there are staying etc.
+- **Data Set Used** : Details of urban customers who have taken loan in the past which comprises of their loan amount, interest rate of loan, long or short loan, anual income, type of home there are staying etc.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
