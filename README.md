@@ -23,10 +23,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Customer with below condition is tend to become defaulter
+  - G5 Grade with eight Open Accounts
+  - Eight inquiries in last 6 months.
+  - Home Ownership status as Other or Mortgage with 10k+ applied loan
+  - 2 Bankruptcies with loan amount more than 8k+
+  - Very High Salary with 12k+ applied amount.
+  - Conclusion 4 from the analysis
+ - Customer with below condition are having high profit to business
+   - Very low interest rate for all grades except grade A
+   - A grade and 60 month term period loan
+   - G grade with 60 months term and F Grade with 36 month term.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
